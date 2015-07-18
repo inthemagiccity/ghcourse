@@ -3,3 +3,11 @@ GIT Commands
 git init (requires XCode)
 git status
 git add [file]
+git add '*.txt'
+git log
+git commit -m 'Comments go here'
+git remote add origin https://github.com/inthemagiccity/ghcourse
+  - creates the remote repository with the handle 'origin'?
+git push -u origin master
+  - default branch is 'master.' -u tells Git to remember the origin and master.
+
