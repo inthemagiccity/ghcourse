@@ -1,0 +1,5 @@
+GIT Commands
+
+git init (requires XCode)
+git status
+git add [file]
